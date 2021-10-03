@@ -25,7 +25,7 @@
 - set up your secrets settings if you are making a public repo, .env contains your seed phrase or load the .env variables directly into your hosting sites such as heroku or vercel, they usually have built-in features for that.
 - all transcations done with this will be visible on opensea under `trading History`.
 
-- report any issues on my discord server https://discord.gg/QDYqpGZnhC
+- report any issues in my discord server https://discord.gg/QDYqpGZnhC
 
 # How to Claim a NFT
 - enter your wallet address and click submit
