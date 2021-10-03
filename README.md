@@ -5,7 +5,7 @@
   - index.js file line 41, replace "nft name" with your nft name.
   - index.js file line 59, replace "nft-image-link" with your nft media link, (gif or images) also replace "nft name" again. 
     you can store your images in images folder and link it with next/image (also works if you link it normally as in react)
-  - mention NFTs schema name in all the files in /api ``ERC271 OR ERC1155 or any other``
+  - mention NFTs schema name in all the files in /api ``ERC721 OR ERC1155 or any other``
 
 - run ``npm install`` if you dont have npm, get it from nodejs.org
 - after updating your .env.example details, rename it to .env
