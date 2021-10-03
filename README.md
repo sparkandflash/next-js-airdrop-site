@@ -13,7 +13,7 @@
 - run ``npm run build`` to build your project. 
 
 
-# extra notes - 
+# Extra notes - 
 - I suggest testing it on testnet before using it with mainnet NFT drops so that you wont lose any crypto incase if it messes up.
 - this code has worked on smart contract depolyed by my wallet address, I have never tested it on NFTs from contracts owned by others - feel free to test it.
   I might test it soon and update here.
@@ -21,7 +21,7 @@
 - it uses opensea js to transfer NFTs, so I suggest not to use it on NFTs that arent on Ethereum and 
   polygon blockchains or any other chains supported by opensea. 
 
-# important!
+# Important!
 - set up your secrets settings if you are making a public repo, .env contains your seed phrase or load the .env variables directly into your hosting sites such as heroku or vercel, they usually have built-in features for that.
 
 - report any issues on my discord server https://discord.gg/QDYqpGZnhC
