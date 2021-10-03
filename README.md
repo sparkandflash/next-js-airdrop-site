@@ -1,5 +1,5 @@
 # NFT Airdrop page
-**instructions** - 
+**Instructions** - 
 - update .env.example
 - update NFT details in 
   - index.js file line 41, replace "nft name" with your nft name.
