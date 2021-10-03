@@ -23,5 +23,12 @@
 
 # Important!
 - set up your secrets settings if you are making a public repo, .env contains your seed phrase or load the .env variables directly into your hosting sites such as heroku or vercel, they usually have built-in features for that.
+- all transcations done with this will be visible on opensea under `trading History`.
 
 - report any issues on my discord server https://discord.gg/QDYqpGZnhC
+
+# How to Claim a NFT
+- enter your wallet address and click submit
+- it will first check whether are you claiming for the first time or not, i.e. it allows a wallet to claim only one copy in a drop
+- if the above condtion is satisfied, then it starts to transfer the nft.
+- once the transfer is complete, transaction Hash button gets enabled, and it will pop up the transactionhash, which can be used to verify the transaction on etherscan or polygonscan.
