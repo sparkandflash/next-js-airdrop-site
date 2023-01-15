@@ -18,6 +18,7 @@
 - you need to have some funds to pay for gas in your wallet if you are using it on your **own contract**, it will not work with wallets with 0 funds.
 - it uses opensea js to transfer NFTs, so I suggest not to use it on NFTs that arent on Ethereum and 
   polygon blockchains or any other chains supported by opensea. 
+- implemented example - https://plaz.vercel.app/airdrop [not sure if it is still functioning] 
 
 # Important!
 - set up your secrets settings if you are making a public repo, .env contains your seed phrase or load the .env variables directly into your hosting sites such as heroku or vercel, they usually have built-in features for that.
