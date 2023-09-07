@@ -1,3 +1,5 @@
+# project is abandoned, use at your own discretion.
+
 # NFT Airdrop page
 **Instructions** - 
 - update .env.example
